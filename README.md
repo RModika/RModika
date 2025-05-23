@@ -89,7 +89,7 @@ Evidence includes:
 ---
 
 ## 📁 Supporting Files
-Please see all supporting documents in the `assets/` folder in the repository.
+Please see all supporting documents are in the repository.
 
 ---
 
