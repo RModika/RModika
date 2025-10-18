@@ -10,16 +10,16 @@ This document highlights my **career readiness**, showcasing both **evidence** a
 
 ---
 
-## 📌 Career Counselling
+##  Career Counselling
 
-### 🔍 Evidence
+### Evidence
 I attended a personalized session with a career advisor to explore options that align with my strengths and goals within ICT.  
 Key takeaways included:
 - Personalized career test outcomes  
 - Discussion summary  
 - Links to relevant career resources  
 
-### 💡 Reflection (STAR)
+### Reflection (STAR)
 **Situation:** I wanted to clarify my future career path.  
 **Task:** I needed to identify ICT roles best suited to my abilities.  
 **Action:** I completed a career questionnaire and participated in a guidance session.  
@@ -27,15 +27,15 @@ Key takeaways included:
 
 ---
 
-## 🎯 Skills and Interests
+## Skills and Interests
 
-### 🔍 Evidence
+### Evidence
 A self-assessment and project review revealed my core technical skills and key interests:
 - **Skills:** Web development (HTML/CSS, JavaScript), Java, Database systems  
 - **Interests:** Mobile applications, UI/UX, Systems architecture  
 - Supporting project repositories and certifications are included.
 
-### 💡 Reflection (STAR)
+### Reflection (STAR)
 **Situation:** I wanted a clear inventory of my technical capabilities.  
 **Task:** Compile and document my academic and personal project skills.  
 **Action:** I analyzed coursework and independent learning efforts.  
@@ -43,15 +43,14 @@ A self-assessment and project review revealed my core technical skills and key i
 
 ---
 
-## 🧠 Personality Assessment
+## Personality Assessment
 
-### 🔍 Evidence
-To better understand how I operate in team and leadership contexts, I completed a personality profiling tool. Outcomes included:
-- **Personality Type:** [Insert Type, e.g., INTJ]  
+### Evidence
+To better understand how I operate in team and leadership contexts, I completed a personality profiling tool. Outcomes included: 
 - Summary report  
 - Implications for team roles and conflict management  
 
-### 💡 Reflection (STAR)
+### Reflection (STAR)
 **Situation:** I wanted to explore how my personality fits within team dynamics.  
 **Task:** Analyze my traits and working style.  
 **Action:** I completed a validated personality assessment and reviewed the analysis.  
@@ -59,14 +58,14 @@ To better understand how I operate in team and leadership contexts, I completed 
 
 ---
 
-## 📄 CV Creation
+## CV Creation
 
-### 🔍 Evidence
+### Evidence
 As part of a structured course module on career readiness, I created a professional CV that outlines my educational background, technical skills, and notable academic projects.  
 
-[**View My CV**](#) *(Insert link to file or repository)*
 
-### 💡 Reflection (STAR)
+
+### Reflection (STAR)
 **Situation:** The CV creation was a formal component of a course focused on preparing students for the job market.  
 **Task:** Develop a well-organized and industry-standard CV under guided instruction.  
 **Action:** I followed the course guidelines, received peer and instructor feedback, and iteratively refined the document.  
@@ -74,16 +73,16 @@ As part of a structured course module on career readiness, I created a professio
 
 ---
 
-## 📬 CV Submission
+## CV Submission
 
-### 🔍 Evidence
+### Evidence
 My CV was submitted through the designated platform with confirmation saved for verification.  
 
 Evidence includes:
 - Submission screenshot  
 - Submission timestamp  
 
-### 💡 Reflection (STAR)
+### Reflection (STAR)
 **Situation:** I needed to submit my CV as part of this academic task.  
 **Task:** Ensure the CV is submitted correctly and on time.  
 **Action:** I followed submission instructions carefully and recorded confirmation.  
@@ -91,7 +90,7 @@ Evidence includes:
 
 ---
 
-## 📁 Supporting Files
+## Supporting Files
 Please see all supporting documents in the repository.  
 These include:
 - Certificates  
