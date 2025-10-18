@@ -1,22 +1,23 @@
-# Rendani Modika 222349603 - PRP370 Digital Portfolio 
+# Rendani Modika 222349603 - PRP370 Digital Portfolio
 
-Welcome to my digital portfolio for Project Presentation 3 (PRP370).  
-This document highlights my career readiness, showcasing both evidence and reflections structured around the STAR (Situation, Task, Action, Result) technique.
+Welcome to my **digital portfolio** for **Project Presentation 3 (PRP370)**.  
+This document highlights my **career readiness**, showcasing both **evidence** and **reflections** structured around the **STAR (Situation, Task, Action, Result)** technique.
 
 > **Faculty:** Informatics and Design  
-> **Programme:** Diploma in Information and Communication Technology 
+> **Programme:** Diploma in Information and Communication Technology  
 > **Institution:** Cape Peninsula University of Technology  
-> **Date:** 21 May 2025
+> **Date:** 21 May 2025  
 
 ---
 
 ## 📌 Career Counselling
 
 ### 🔍 Evidence
-I attended a personalized session with a career advisor to explore options that align with my strengths and goals within ICT. Key takeaways included:
-- Personalized career test outcomes
-- Discussion summary
-- Links to relevant career resources
+I attended a personalized session with a career advisor to explore options that align with my strengths and goals within ICT.  
+Key takeaways included:
+- Personalized career test outcomes  
+- Discussion summary  
+- Links to relevant career resources  
 
 ### 💡 Reflection (STAR)
 **Situation:** I wanted to clarify my future career path.  
@@ -30,8 +31,8 @@ I attended a personalized session with a career advisor to explore options that 
 
 ### 🔍 Evidence
 A self-assessment and project review revealed my core technical skills and key interests:
-- Skills: Web development (HTML/CSS, JavaScript), Java, Database systems
-- Interests: Mobile applications, UI/UX, Systems architecture
+- **Skills:** Web development (HTML/CSS, JavaScript), Java, Database systems  
+- **Interests:** Mobile applications, UI/UX, Systems architecture  
 - Supporting project repositories and certifications are included.
 
 ### 💡 Reflection (STAR)
@@ -46,9 +47,9 @@ A self-assessment and project review revealed my core technical skills and key i
 
 ### 🔍 Evidence
 To better understand how I operate in team and leadership contexts, I completed a personality profiling tool. Outcomes included:
-- Personality Type: [Insert Type, e.g., INTJ]
-- Summary report
-- Implications for team roles and conflict management
+- **Personality Type:** [Insert Type, e.g., INTJ]  
+- Summary report  
+- Implications for team roles and conflict management  
 
 ### 💡 Reflection (STAR)
 **Situation:** I wanted to explore how my personality fits within team dynamics.  
@@ -62,7 +63,8 @@ To better understand how I operate in team and leadership contexts, I completed 
 
 ### 🔍 Evidence
 As part of a structured course module on career readiness, I created a professional CV that outlines my educational background, technical skills, and notable academic projects.  
-[Link to CV or see attached file]
+
+[**View My CV**](#) *(Insert link to file or repository)*
 
 ### 💡 Reflection (STAR)
 **Situation:** The CV creation was a formal component of a course focused on preparing students for the job market.  
@@ -76,9 +78,10 @@ As part of a structured course module on career readiness, I created a professio
 
 ### 🔍 Evidence
 My CV was submitted through the designated platform with confirmation saved for verification.  
+
 Evidence includes:
-- Submission screenshot
-- Submission timestamp
+- Submission screenshot  
+- Submission timestamp  
 
 ### 💡 Reflection (STAR)
 **Situation:** I needed to submit my CV as part of this academic task.  
@@ -89,8 +92,7 @@ Evidence includes:
 ---
 
 ## 📁 Supporting Files
-Please see all supporting documents are in the repository.
-
----
-
-
+Please see all supporting documents in the repository.  
+These include:
+- Certificates  
+- Caree
